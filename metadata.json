@@ -1,0 +1,6 @@
+{
+  "name": "Al-Tayseer Quran Competition",
+  "description": "منصة إدارة مسابقة مؤسسة التيسير الخيرية لحفظة القرآن الكريم بقرية المنزلة - تسجيل المتسابقين، لوحة تحكم إدارية، وتوليد استمارات PDF متصلة بـ Google Workspace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
